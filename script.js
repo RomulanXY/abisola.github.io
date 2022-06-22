@@ -17,6 +17,7 @@
 let currentScrollPosition = 0;
 let scrollAmount = 320;
 
+
 let videoCarousel = document.querySelector('.video-carousel');
 let cover = document.querySelector('.cover');
 let arrows = document.querySelectorAll('.btn-scroll');
